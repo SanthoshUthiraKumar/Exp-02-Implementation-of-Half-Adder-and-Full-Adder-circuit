@@ -62,10 +62,19 @@ endmodule
 ```
 ### Output:
 ### Half Adder
+### Truthtable
+![images](HalfAddTT.png)
+### RTL realization
 ![images](HalfAdderRTL.png)
+### Timing diagram
 ![images](HalfAdderSimulation.png)
+
 ### Full Adder
+### Truthtable
+![images](FullAddTT.png)
+### RTL realization
 ![images](FullAdderRTL.png)
+### Timing diagram
 ![images](FullAdderSimulation.png)
 
 ### Result:
